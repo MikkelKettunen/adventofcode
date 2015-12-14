@@ -18,3 +18,4 @@ cabal.sandbox.config
 *.txt~
 04code.exe
 *.exe
+*.swp
