@@ -19,3 +19,6 @@ cabal.sandbox.config
 04code.exe
 *.exe
 *.swp
+*.un~
+.idea/workspace.xml
+*.xml
